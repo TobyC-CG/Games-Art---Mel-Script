@@ -1,5 +1,0 @@
-duplicate -rr;
-doGroup 0 1 1;
-scale -r -1 1 1 ;
-ungroup;
-FreezeTransformations;
